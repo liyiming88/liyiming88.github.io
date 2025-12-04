@@ -6,7 +6,7 @@ export const THEME_COLOR_HOVER = '#0e6045';
 export const THEME_COLOR_LIGHT = '#e3f3ed';
 
 export const INITIAL_USER: UserProfile = {
-  name: "Alex Doe",
+  name: "Alex King",
   age: 35,
   retirementAge: 65,
   annualIncome: 120000,
