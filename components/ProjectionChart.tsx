@@ -115,7 +115,7 @@ const ProjectionChart: React.FC<ProjectionChartProps> = ({ user }) => {
             type="monotone" 
             dataKey="conservative" 
             name="Conservative" 
-            stroke="#9ca3af" 
+            stroke="#9ca3ae" 
             strokeDasharray="5 5" 
             dot={false}
             strokeWidth={2}
